@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://api-huacloud.net/sub?target=clash&insert=true&emoji=true&udp=true&clash.doh=true&new_name=true&filename=Flower_Trojan&url=https%3A%2F%2Fapi.xmancdn.net%2Fosubscribe.php%3Fsid%3D35920%26token%3DKa4yP5rh"
+    url: "机场订阅"
     type: http
     interval: 86400
     health-check:
